@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, y'all  👋
+
+At some point, I will automate this so I don't have to manually update it. 🤖
 
 <!--
 **mmoga/mmoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
