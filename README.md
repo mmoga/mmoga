@@ -1,7 +1,5 @@
 ### Hello, y'all!  👋
 
-🌱 I’m currently learning Vue.js and Gatsby.
-
 At some point, I will automate this so I don't have to manually update it. 🤖
 
 <!--
